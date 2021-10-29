@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darshankhedkar
+- 👋 Hi, I’m @darshankhedkar [MERN],[MHVN]
 - 👀 I’m interested in ... full stack development 
 - 🌱 I’m currently learning ... Vue.js 3,Node.js,Hapi,seqalise,Bulma.io,bufey.io,Loadhash.
 - 💞️ I’m looking to collaborate on ...Vue.js Node.js projects.
