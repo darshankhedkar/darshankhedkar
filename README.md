@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Darshan.
- React.js and React Native developer.
+ full stack developer with React.js,tailwindcss,fastify.js ,Node.js
  @fistcry.com
